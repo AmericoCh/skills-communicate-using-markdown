@@ -35,8 +35,8 @@ cout << "Hello world!";
 ```
 
 
-- [] Turn on GitHub Pages
-- [] Outline my portafolio
-- [] Introduce my portafolio
-- [] Introduce myself to the world
+- [X] Turn on GitHub Pages
+- [X] Outline my portafolio
+- [ ] Introduce my portafolio
+- [ ] Introduce myself to the world
   
